@@ -5,4 +5,6 @@ def my_select(collection)
    if x.even?
      new_collection << x
    end
+ end
+ new_collection 
 end
